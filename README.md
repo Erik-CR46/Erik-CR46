@@ -26,7 +26,7 @@ me define:
 
 actualmente:
   estudiando:   "Desarrollo de Aplicaciones Multiplataforma"
-  trabajando:   "Becario — mejorando mi programación día a día"
+  trabajando:   "Becario — Reporting Analytics Intern"
   construyendo: "Mini apps, juegos en Godot y proyectos web"
 </pre>
 
