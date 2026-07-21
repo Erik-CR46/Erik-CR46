@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Erik%20Catalan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20en%20formaci%C3%B3n%20%7C%20DAM&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
 
 <!-- Typing SVG -->
@@ -82,12 +81,8 @@ actualmente:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Erik-CR46&show_icons=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&hide_border=true&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-CR46&layout=compact&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&hide_border=true&border_radius=10" height="170"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erik-CR46&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true&border_radius=10" height="170"/>
+
 
 </div>
 
@@ -97,16 +92,13 @@ actualmente:
 
 <div align="center">
 
-<a href="https://github.com/Erik-CR46/Godot-Game2D-FlappyBird.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erik-CR46&repo=proyecto1&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Erik-CR46/Calculator-Python.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erik-CR46&repo=proyecto2&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&hide_border=true&border_radius=10" />
-</a>
+[![Game](https://img.shields.io/badge/game-0891b2?style=for-the-badge&logo=godotengine&logoColor=white)](https://github.com/Erik-CR46/Godot-Game2D-FlappyBird/)
+[![Calculator](https://img.shields.io/badge/calculator-0891b2?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Erik-CR46/Calculator-Python)
 
 </div>
 
 ---
+
 
 ## 🤝 Conecta conmigo
 
